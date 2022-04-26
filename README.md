@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (i'm still working on it yet 😹)
 
 <!--
 **kayo-almeida/kayo-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
